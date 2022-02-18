@@ -11,7 +11,7 @@ This is an interactive game in which different objects are presented one-by-one 
 
 ## How to install and run the game
 
-Follow the directory shown below and download the `.apk` file on your device. Once the download is completed, find and tap on the application icon. You should be ready to play!
+Follow the directory shown below and download the `.apk` file on your device. Once the download is complete, find and tap on the application icon. You should be ready to play!
 
 ```
 Tap-&-Play
@@ -27,9 +27,3 @@ Tap-&-Play
 ## Development Specifications
 
 The application was developed using `Unity 2020.3.15f2`. It works on Android devices (ideally tablets) rnunning `Android 4.4 (KitKat)` or above.
-
-
-
-
-
-
