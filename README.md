@@ -1,5 +1,5 @@
 # <img src = "https://github.com/n3urovirtual/Tap-and-Play/blob/main/Tap-&-Play/Screenshots/logo.png" width = 400>
- A tablet game to encourage goal-directed behavior in children with/without cortical visual impairment (CVI).
+ A tablet game promoting goal-directed behavior in children with/without cortical visual impairment (CVI).
 
 ## Overview
 
