@@ -26,4 +26,4 @@ Tap-&-Play
 
 ## Development Specifications
 
-The application was developed using `Unity 2020.3.15f2`. It works on Android devices (ideally tablets) rnunning `Android 4.4 (KitKat)` or above.
+The application was developed using `Unity 2020.3.15f2`. It works on Android devices (ideally tablets) running `Android 4.4 (KitKat)` or above.
