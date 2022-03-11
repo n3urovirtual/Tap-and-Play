@@ -3,7 +3,7 @@
 
 ## Overview
 
-A few months ago, a member of my extended family suffered a TBI (Traumatic Brain Injury) after a fall accident. As part of the rehabilitation process, the opotmetrist suggested a game in which objects are moving around the screen and they become bigger/generate a sound once the user tap on them. Such a game was not available for Android devices, so I decided to make one from scratch. This github repo is the outcome of my efforts. 
+A few months ago, a member of my extended family suffered a TBI (Traumatic Brain Injury) after a fall accident. As part of the rehabilitation process, the opotmetrist suggested a game in which objects are moving around the screen and they become bigger/generate a sound once the user tap on them. Such a game was not available for Android devices, so I decided to make one from scratch. This github repo is the result of my efforts. 
 
 ## Description
 
